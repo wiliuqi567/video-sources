@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "key": "modu",
+      "name": "魔都 · 动漫",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "key": "feifan",
+      "name": "非凡 · 影视",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "key": "liangzi",
+      "name": "量子 · 综合",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/"
+    },
+    {
+      "key": "baofeng",
+      "name": "暴风 · 综合",
+      "api": "https://bfzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "key": "suoni",
+      "name": "索尼 · 综合",
+      "api": "https://suoniapi.com/api.php/provide/vod/"
+    },
+    {
+      "key": "wujin",
+      "name": "无尽 · 综合",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/"
+    }
+  ]
+}
